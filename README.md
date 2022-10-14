@@ -1,2 +1,2 @@
-# Python-Computational-Structures
-Repository for all my work with Python while learning the language at UC Berkeley.
+# UC Berkeley Computational-Structures
+Repository for UC Berkeley course in computational structures taught in Python
